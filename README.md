@@ -3,3 +3,4 @@
 # [21-09-2020](https://transcripts.gotomeeting.com/#/s/a9fd78070757e76b70ca2c0c52b4ec434a5b4fee0914d8d9f1f5a5710eb8f023)
 # [22-09-2020](https://transcripts.gotomeeting.com/#/s/aa6988a35d7f5644236243bd6b6944010b3f637aa5d493fc71ac91aeee03a96c)
 # [23-09-2020](https://transcripts.gotomeeting.com/#/s/556a0b26e78fe0774bb78952e75edafae7dfd71cb726cf8e3fd886218c8daacc)
+# [24-09-2020](https://transcripts.gotomeeting.com/#/s/556a0b26e78fe0774bb78952e75edafae7dfd71cb726cf8e3fd886218c8daacc)
