@@ -1,4 +1,4 @@
-# APSSDC-Python-Morning-Batch2-14-09-2020-to-03-10-2020-
+- APSSDC-Python-Morning-Batch2-14-09-2020-to-03-10-2020-
 
 
 ### Videos Drive Link :  https://drive.google.com/drive/folders/1CzQeXDoAPeIakLbZFWTO1i7u8aUEg-8t 
@@ -8,4 +8,5 @@
 # [22-09-2020](https://transcripts.gotomeeting.com/#/s/aa6988a35d7f5644236243bd6b6944010b3f637aa5d493fc71ac91aeee03a96c)
 # [23-09-2020](https://transcripts.gotomeeting.com/#/s/556a0b26e78fe0774bb78952e75edafae7dfd71cb726cf8e3fd886218c8daacc)
 # [24-09-2020](https://transcripts.gotomeeting.com/#/s/3a02d9b7ce912579c724b57b1b711d436268dbcf0ec107bb118214ed0affbf81)
-
+#[24-09-2020]()
+-
