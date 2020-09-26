@@ -1,3 +1,7 @@
+### New Goto Metting ID : 996-932-029 (Monday Onwards(28-Sep-2020))
+### Metting Link : https://www.gotomeet.me/sateeshm
+
+
 - APSSDC-Python-Morning-Batch2-14-09-2020-to-03-10-2020-
 
 
