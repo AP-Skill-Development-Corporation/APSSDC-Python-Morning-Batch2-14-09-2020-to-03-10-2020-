@@ -14,4 +14,4 @@
 # [24-09-2020](https://transcripts.gotomeeting.com/#/s/3a02d9b7ce912579c724b57b1b711d436268dbcf0ec107bb118214ed0affbf81)
 # [25-09-2020](https://transcripts.gotomeeting.com/#/s/5429dc2499732cc8345363a6c3afd14d2112ee5806ae0c0138d6a3fa76ea1cb2)
 # [26-09-2020](https://transcripts.gotomeeting.com/#/s/0b6c559ad0d9496b2afbd4b4dc16dd04f50ba214f77ef15eb57df9ad771d1562)
-# [28-09-2020]
+# [28-09-2020](https://transcripts.gotomeeting.com/#/s/cb777fd26afbe3b25caa8f36170044a43c181b80b8e8447f5792c15eed764aaf)
