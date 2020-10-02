@@ -17,3 +17,5 @@
 # [28-09-2020](https://transcripts.gotomeeting.com/#/s/cb777fd26afbe3b25caa8f36170044a43c181b80b8e8447f5792c15eed764aaf)
 # [29-09-2020](https://transcripts.gotomeeting.com/#/s/639beeef79c876cb3436d9740e7cb3613032a62c713043de4a4a92d3ef411d49)
 # [30-09-2020](https://transcripts.gotomeeting.com/#/s/6330bbd4311fb6d85cda199d2b22dbd92724a8c2599fb588d3e1ede6f8e8120e)
+# [01-10-2020](https://transcripts.gotomeeting.com/#/s/15911167917bd484df1eb894ee634843b2295c7f72de8a5a4a31be227007ca53)
+# [02-10-2020](https://transcripts.gotomeeting.com/#/s/28ffd82c1c859b44b11c27c04dd3cee40161769c2676b819b7d689e162e9549c)
